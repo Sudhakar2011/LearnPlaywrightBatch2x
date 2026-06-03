@@ -1,0 +1,10 @@
+var a = 10;
+var _a = 20;
+var $ = 30;
+var $a = 40;
+var firstName = "Sudhakar";
+var FirstName = "Sudhakar";
+var abc123 = 50;
+var first_name = "Sudhakar";
+var first$name = "Sudhakar";
+// var first name = "Sudhakar"; // invalid identifier because of space
