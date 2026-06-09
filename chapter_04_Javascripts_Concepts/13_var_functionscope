@@ -1,0 +1,22 @@
+var a = 10;
+console.log(a);     // Global variable global scope
+
+
+// function scope function definition
+function printHello() {
+
+    console.log("Welcome to JavaScripts Concepts");
+    var a = 20;                       // local variable function scope
+    console.log(a);
+    if (true) {
+
+        var a = 40;
+        console.log(a);
+
+    }
+    console.log("F->", a); // function scope variable a is 40 because of var keyword 
+    // latest value of a is 40 in function scope
+}
+
+console.log("G->", a);     // Global variable global scope
+printHello();
