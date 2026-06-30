@@ -40,4 +40,6 @@ let category =
 
             statusCode < 500 ? "Client error" : "server error";
 
-console.log(`Status ${statusCode}: ${category}`); 
+console.log(`Status ${statusCode}: ${category}`);
+
+
