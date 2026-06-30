@@ -1,0 +1,18 @@
+let expected = "Login Successful"
+let actual = "Login Successful"
+
+if (expected === actual) {
+    console.log("Test Passed");
+} else {
+
+    console.log("Test Failed");
+}
+
+let expected1 = "Login Successful"
+let actual1 = "Invalid Cred"
+
+if (expected1 === actual1) {
+    console.log("Test Passed");
+} else {
+    console.log("Test Failed");
+}
