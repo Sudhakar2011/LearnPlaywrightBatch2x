@@ -9,3 +9,7 @@ This repository contains exercises and references for learning Playwright automa
 - **chapter_03_Identifier_literals** — JavaScript identifiers, literals, and VS Code keyboard shortcuts
 - **chapter_04_Javascripts_Concepts** — Variable declarations (`var`, `let`, `const`), hoisting, and Temporal Dead Zone
 - **chapter_05_literal** — JavaScript literals (numbers, strings, booleans, null, undefined) and template literals
+- **Chapter_06_Operator** — JavaScript operators (ternary, increment/decrement, nullish)
+- **chapter_07_if_else** — If-else examples and ternary operator exercises
+- **chapter_08_switch_statement** — Switch statement examples
+- **If_Else_Practice** — If-else practice exercises (status code, testcase, bug severity, build health, login lockout)
